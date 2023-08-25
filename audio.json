@@ -1,0 +1,47 @@
+{
+    "songs": [
+      {
+        "title": "Guli Mata",
+        "audio": "Guli Mata.mp3",
+        "cover": "wave.gif"
+      },
+      {
+        "title": "Achyatam keshavam krishna damodaram",
+        "audio": "1.mp3",
+        "cover": "download (1).jpg"
+      },
+      {
+        "title": "Chaka-Chak",
+        "audio": "4.mp3",
+        "cover": "Chaka-Chak-From-Atrangi-Re--Hindi-2021-20211129021001-500x500.jpg"
+      },
+      {
+        "title": "Awadh Me Ram Aaye Hai ",
+        "audio": "2.mp3",
+        "cover": "download.jpg"
+      },
+      {
+        "title": "Halka Dupatta",
+        "audio": "3.mp3",
+        "cover": "THM-8-Halka-Dupatta.jpg"
+      },
+      {
+        "title": "Unse Mili Nazar",
+        "audio": "5.mp3",
+        "cover": "8907212008215.jpg"
+      },
+      {
+        "title": "TereVaste.mp3",
+        "audio": "TereVaste.mp3",
+        "cover": "wave.gif"
+      },{
+        "title": "What Jhumka.mp3",
+        "audio": "What Jhumka.mp3",
+        "cover": "wave.gif"
+      },{
+        "title": "Har Har Mahadev.mp3",
+        "audio": "Har Har Mahadev.mp3",
+        "cover": "wave.gif"
+      }
+    ]
+  }
